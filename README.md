@@ -9,8 +9,8 @@ The official view of the data is available here: https://www.helsedirektoratet.n
 
 ## Updates
 
-Helsedirektoratet updates their dataset once a day, at 12:30 AM (CEST).  
-The datafiles in this repository are automatically updated daily at 12:40 AM (CEST) with the newest set of data.
+Helsedirektoratet updates their dataset once a day, at 12:30 PM (CEST).  
+The datafiles in this repository are automatically updated daily at 12:40 PM (CEST) with the newest set of data.
 
 ## Usage
 Get your API-key here: https://utvikler.helsedirektoratet.no/
