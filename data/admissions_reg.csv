@@ -58,6 +58,7 @@ date,health_reg_name,admissions,respiratory
 2020-05-11,Midt,6,0
 2020-05-12,Midt,9,0
 2020-05-13,Midt,9,0
+2020-05-14,Midt,9,0
 2020-05-02,Midt,5,2
 2020-05-03,Midt,5,2
 2020-05-04,Midt,6,2
@@ -125,6 +126,7 @@ date,health_reg_name,admissions,respiratory
 2020-05-11,Nord,5,1
 2020-05-12,Nord,4,0
 2020-05-13,Nord,4,0
+2020-05-14,Nord,4,0
 2020-05-02,Nord,8,3
 2020-05-03,Nord,7,2
 2020-05-04,Nord,7,2
@@ -192,6 +194,7 @@ date,health_reg_name,admissions,respiratory
 2020-05-11,Sør-Øst,38,15
 2020-05-12,Sør-Øst,36,15
 2020-05-13,Sør-Øst,40,14
+2020-05-14,Sør-Øst,40,12
 2020-05-02,Sør-Øst,56,20
 2020-05-03,Sør-Øst,57,20
 2020-05-04,Sør-Øst,58,20
@@ -259,6 +262,7 @@ date,health_reg_name,admissions,respiratory
 2020-05-11,Vest,10,1
 2020-05-12,Vest,10,1
 2020-05-13,Vest,8,1
+2020-05-14,Vest,8,1
 2020-05-02,Vest,12,4
 2020-05-03,Vest,11,4
 2020-05-04,Vest,11,3
