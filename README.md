@@ -1,4 +1,5 @@
 # covid19-nor-admissions
+[![Scheduled data update](https://github.com/frefrik/covid19-nor-admissions/workflows/Scheduled%20data%20update/badge.svg?branch=master)](https://github.com/frefrik/covid19-nor-admissions/actions?query=workflow%3A%22Scheduled+data+update%22+event%3Aschedule+branch%3Amaster)
 
 ## Description
 The Norwegian Directorate of Health (Helsedirektoratet) offers an API on the dataset that is used to display daily updated figures on the number of patients admitted to hospitals with proven covid-19, and the number of hospitalized patients receiving respiratory care.
