@@ -20,7 +20,7 @@ jobs:
       run: |
         cp config.dist.yml config.yml
     - name: Set APIKEY
-      uses: jacobtomlinson/gha-find-replace@master
+      uses: jacobtomlinson/gha-find-replace@v2
       with:
         find: "APIKEY"
         replace: ${{ secrets.APIKEY }}
