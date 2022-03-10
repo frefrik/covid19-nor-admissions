@@ -628,6 +628,7 @@ date,health_reg_name,admissions,respiratory
 2022-03-04,Midt,87,2
 2022-03-07,Midt,105,0
 2022-03-08,Midt,100,0
+2022-03-09,Midt,103,0
 2020-03-08,Nord,0,0
 2020-03-09,Nord,0,0
 2020-03-10,Nord,0,0
@@ -1257,6 +1258,7 @@ date,health_reg_name,admissions,respiratory
 2022-03-04,Nord,47,1
 2022-03-07,Nord,52,1
 2022-03-08,Nord,56,1
+2022-03-09,Nord,52,2
 2020-03-08,Sør-Øst,0,0
 2020-03-09,Sør-Øst,2,0
 2020-03-10,Sør-Øst,7,0
@@ -1886,6 +1888,7 @@ date,health_reg_name,admissions,respiratory
 2022-03-04,Sør-Øst,257,21
 2022-03-07,Sør-Øst,318,18
 2022-03-08,Sør-Øst,314,14
+2022-03-09,Sør-Øst,321,14
 2020-03-08,Vest,0,0
 2020-03-09,Vest,0,0
 2020-03-10,Vest,0,0
@@ -2515,3 +2518,4 @@ date,health_reg_name,admissions,respiratory
 2022-03-04,Vest,164,2
 2022-03-07,Vest,159,4
 2022-03-08,Vest,168,2
+2022-03-09,Vest,141,4
